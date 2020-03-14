@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Intellij
+.idea
+.out
+#.idea/workspace.xml
+#.idea/tasks.xml
+#.idea/gradle.xml
+#.idea/dictionaries
+#.idea/libraries
+#.idea/codeStyles
+
+# Built application files
+*.apk
+*.ap_
